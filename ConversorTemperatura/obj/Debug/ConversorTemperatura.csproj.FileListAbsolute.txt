@@ -1,0 +1,10 @@
+C:\Users\Oduel\source\repos\ConversorTemperatura\ConversorTemperatura\bin\Debug\ConversorTemperatura.exe.config
+C:\Users\Oduel\source\repos\ConversorTemperatura\ConversorTemperatura\bin\Debug\ConversorTemperatura.exe
+C:\Users\Oduel\source\repos\ConversorTemperatura\ConversorTemperatura\bin\Debug\ConversorTemperatura.pdb
+C:\Users\Oduel\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.csprojAssemblyReference.cache
+C:\Users\Oduel\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.frmPrincipal.resources
+C:\Users\Oduel\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.Properties.Resources.resources
+C:\Users\Oduel\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.csproj.GenerateResource.cache
+C:\Users\Oduel\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Oduel\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.exe
+C:\Users\Oduel\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.pdb
